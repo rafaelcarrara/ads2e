@@ -1,0 +1,2 @@
+Aplicativo exclusivamente mobile, dispononível em iOS e android, onde a front e back end devem ser escritas
+em python.

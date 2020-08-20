@@ -1,0 +1,2 @@
+Testes devem dar valores inferiores a 10 doláres, se existem incosistencias na hora de pedir o serviço via aplicativo, se
+o motorista e passageiros conseguem acompanhar suas viagens.

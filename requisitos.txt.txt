@@ -1,0 +1,4 @@
+Aplicativo onde será acessado através de login e senha previamente cadastrados, onde será prestados serviços de 
+táxi aereo, feitos por um carro voador, com o limite de preço de até 10doláres por viagem, deve se ter uma dashboard
+com melhores opções de viagens e horários disponíveis para reserva, aba com corridas feitas anteriormentes, aba sobre
+possíveis corridas em andamento onde será mostrado a localização em tempo real e o seu preço estimado até o destino escolhido.
